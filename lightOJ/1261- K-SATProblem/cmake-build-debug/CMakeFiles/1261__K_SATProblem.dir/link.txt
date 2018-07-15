@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1261__K_SATProblem.dir/main.cpp.o  -o 1261__K_SATProblem 

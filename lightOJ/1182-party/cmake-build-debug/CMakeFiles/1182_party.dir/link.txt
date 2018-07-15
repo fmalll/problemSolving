@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1182_party.dir/main.cpp.o  -o 1182_party 

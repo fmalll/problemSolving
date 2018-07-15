@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1001_OppositTask.dir/main.cpp.o  -o 1001_OppositTask 

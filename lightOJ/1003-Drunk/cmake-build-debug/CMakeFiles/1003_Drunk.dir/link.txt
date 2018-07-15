@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1003_Drunk.dir/main.cpp.o  -o 1003_Drunk 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1141___Number_Transformation.dir/main.cpp.o  -o 1141___Number_Transformation 

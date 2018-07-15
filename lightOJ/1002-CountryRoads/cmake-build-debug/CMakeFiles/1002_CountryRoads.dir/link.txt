@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1002_CountryRoads.dir/main.cpp.o  -o 1002_CountryRoads 

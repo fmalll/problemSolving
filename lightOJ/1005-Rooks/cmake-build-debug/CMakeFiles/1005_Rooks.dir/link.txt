@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1005_Rooks.dir/main.cpp.o  -o 1005_Rooks 
